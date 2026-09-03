@@ -6,9 +6,7 @@
   - scripts (exported `HTML`, `.pdf`, of R or Python script files associated with stages of the analysis).
 3. source_data/ 
   - data generated in the scripts that tie with various figures in the article.
-4. data/
-  - data for some of the analyses. One subdirectory (spatial/Farah2024). Contains per gene cell expression values for MERFISH spatial slides.
-5. functions/
+4. functions/
   - Some of the functions used throughout the analysis - not comprehensive as some private libraries were used for basic functions [https://github.com/KniSche/R_functions]
   
 Files:
