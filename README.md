@@ -3,7 +3,7 @@
 1. figures/
   - Figure panels as raw input to main figures, or supplementary figures produced by the scripts.
 2. scripts/
-  - scripts (`HTML`, `.r`, or `.py` files associated with stages of the analysis).
+  - scripts (exported `HTML`, `.pdf`, of R or Python script files associated with stages of the analysis).
 3. source_data/ 
   - data generated in the scripts that tie with various figures in the article.
 4. data/
