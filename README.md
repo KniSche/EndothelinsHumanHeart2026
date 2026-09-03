@@ -1,4 +1,7 @@
-### Supplementary code for Endothelins in the human heart 2026
+[![DOI](https://zenodo.org/badge/1174845022.svg)](https://doi.org/10.5281/zenodo.22282894)
+
+
+### Analysis code for Analysis of the expression of genes encoding the endothelin signaling pathway in fetal, heathy and diseased adult human heart using single-cell transcriptomics
 
 1. figures/
   - Figure panels as raw input to main figures, or supplementary figures produced by the scripts.
